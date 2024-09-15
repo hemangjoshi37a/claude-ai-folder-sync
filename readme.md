@@ -1,4 +1,4 @@
-# Claude.ai Sync
+# Claude.ai Projects Sync
 
   ![GitHub stars](https://img.shields.io/github/stars/yourusername/claude-ai-sync?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/yourusername/claude-ai-sync?style=social)
